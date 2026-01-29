@@ -12,7 +12,7 @@
       "foo": "! garbage string we \nreally can't parse %"
   },
   "devDependencies": {
-      "mocha": "1.0"
+      "mocha": "10.6.0"
   },
   "peerDependencies": {
       "tea": "2.x"
